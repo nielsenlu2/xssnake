@@ -1,12 +1,7 @@
 {
   "name": "xssnake",
-  "description": "Online multiplayer Snake where the winner of a game is allowed to execute JavaScript in the browser of other players.",
-  "keywords": [
-    "xssnake",
-    "snake",
-    "multiplayer",
-    "game"
-  ],
+  "description": "",
+  "keywords": [],
   "homepage": "https://github.com/blaise-io/xssnake",
   "author": "Blaise Kal <blaise.kal@gmail.com>",
   "license": "MIT",
